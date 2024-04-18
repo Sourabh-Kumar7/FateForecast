@@ -31,11 +31,9 @@ Heart failure is a critical health issue worldwide, leading to significant morta
 
 ## Usage
 
-1. Ensure you have Python installed on your system.
-2. Run the main script:
-
-   ```sh
-   python fate_forecast.py
+1. Ensure you have Jupyter Notebook installed on your system.
+2. Open the `fate_forecast.ipynb` notebook using Jupyter Notebook.
+3. Follow the instructions and execute the cells to run the project.
 
 ## Dataset
 The dataset used in this project comprises records of 368 patients who visited a cardiology hospital in Pakistan, with symptoms indicative of heart failure. It includes 60 quantitative parameters for each patient, such as age, smoking status, mortality during the hospital visit, and maximum heart rate achieved, among others. The dataset's diversity in variables allows for a detailed and nuanced modeling approach.
